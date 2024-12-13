@@ -1,0 +1,1 @@
+"C:\Users\abcde\Documents\temp\LockdownBrowserProject\msedge.exe" /d:"C:\Users\abcde\Documents\temp\LockdownBrowserProject\msedge.dll" "C:\Program Files (x86)\Respondus\LockDown Browser\LockDownBrowser.exe" "%1"
