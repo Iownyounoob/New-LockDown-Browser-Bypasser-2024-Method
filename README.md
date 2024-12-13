@@ -10,3 +10,8 @@ Fully undetectable and doesn’t require a virtual machine, though it does requi
 
 This bypass helped me achieve an A my exam and made my professor look stupid as fuk.
 
+Note:
+I provided exe and dll to make it simpler for you. 
+Undetectable until LockDown Browser recognizes the signatures. Use it while it lasts. 
+If you want to take it a step further, consider using obfuscators. 
+Pack the dll and exe with VMProtect and you should be good.
